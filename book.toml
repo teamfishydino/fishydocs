@@ -1,0 +1,6 @@
+[book]
+authors = ["minjeadev"]
+language = "en"
+multilingual = false
+src = "src"
+title = "FishyDocs"
