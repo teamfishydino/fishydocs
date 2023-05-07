@@ -7,7 +7,7 @@ title = "The Woojinlang"
 
 [output.html]
 mathjax-support = true
-site-url = "/woojin/"
+# site-url = "/woojin/"
 
 [output.html.playground]
 editable = true

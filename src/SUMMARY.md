@@ -3,4 +3,5 @@
   - [installation](./installation.md)
 ## v0.1.0
 - [v0.1.x](./v0.1.x/getting-started.md)
+  - [Variables and Mutability](./v0.1.x/vars_and_mutability.md)
   - [Types](./v0.1.x/types.md)
