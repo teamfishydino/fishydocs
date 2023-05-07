@@ -28,13 +28,24 @@ jobs:
           mdbook-version: 'latest'
 
       - name: Build mdbook
+<<<<<<< HEAD
         run: mdbook build v0.1.0
+=======
+        run: mdbook build second-edition
+>>>>>>> 58abe31cb8d94b7f22d705441f1def19fb1e6894
 
       - name: Deploy gh-pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+<<<<<<< HEAD
           publish_dir: ./v0.1.0/book
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
           commit_message: 'Auto Deploy (${{ github.event.head_commit.message }})'
+=======
+          publish_dir: ./second-edition/book
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+          commit_message: 'Auto Deploy (${{ github.event.head_commit.message }})'
+>>>>>>> 58abe31cb8d94b7f22d705441f1def19fb1e6894
