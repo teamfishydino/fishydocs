@@ -2,8 +2,8 @@ Now, it seems like a good time to explore how to receive user input. There will 
 
 To receive user input in woojin, you can use the `input` keyword followed by a prompt message. The user's input will be stored as a string. Here's an example of receiving user authentication information:
 ```woojin
-let username = "Enter your username: ";
-let password = "Enter your password: ";
+let username = input "Enter your username: ";
+let password = input "Enter your password: ";
 ```
 In the above code, the input keyword prompts the user to enter their username and password. The input provided by the user will be stored in the username and password variables as strings.
 
