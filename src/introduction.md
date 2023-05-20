@@ -1,4 +1,12 @@
 # Introduction
-Welcome to the _Woojin Programming Language_ or _Woojinlang_. woojinlang (We'll just write woojin from now on) is a programming language made up of jokes. 
+Welcome to the guide for the woojin programming language, or woojinlang! From now on, I will provide you with information about the syntax and various features of woojin.
 
-> **Note:** All v0.x.x versions are beta versions, not full versions. The full version will be from v1.x.x. That is, the current grammar of woojin may not be compatible with the grammer of full version.
+What is woojin? Woojin is a project that was **started by the developer of this language as a way to tease his friend Woojin**. As the number of downloads increases, it benefits us. However, it is not recommended to use woojin in actual projects. It is strongly advised to use woojin only for joking purposes. Originally, woojin was a project called **"node-woojin"** that started in 2021 and was created as a mimic of the grammar of **"umjunsik-lang."** However, that project was effectively discontinued in 2022. From 2023 onwards, it has been completely ***deprecated***, and the project **"woojin"** was initiated. The woojin project is a project that uses Rust to develop a new woojinlang compiler (interpreter).
+
+Since woojin was created to tease Woojin and the goal is to have many people use it, we strive to make the grammar extremely simple and clear so that anyone who has learned a programming language before can easily learn woojin in a short period of time. Our ultimate goal is to make it easy for even those who have never learned a programming language to learn woojin and enable more people to participate in this joke.
+
+Furthermore, **node-woojin has many bugs and may not function correctly**. Therefore, please refrain from using node-woojin. Instead, use woojin, which is safer, offers various features, and is regularly updated. Here are the places where you can find woojin. (The installation process for woojin will be detailed on the next page, and for those interested in the source code, please visit the GitHub site below.)
+**🌐 GitHub:** https://github.com/teamfishydino/woojin/
+**📦 Crates.io:** https://crates.io/crates/woojin/
+
+> **Note:** Versions 0.x.x are all unofficial versions (beta versions). Versions 1.x.x and above are considered official versions. Compatibility with the syntax of unofficial versions (beta versions) may not be guaranteed. Also, please note that the grammar of unofficial versions can be changed at any time. It is recommended to visit this page regularly to learn about the new syntax of woojin.
