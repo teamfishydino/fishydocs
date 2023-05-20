@@ -5,8 +5,8 @@ What is woojin? Woojin is a project that was **started by the developer of this 
 
 Since woojin was created to tease Woojin and the goal is to have many people use it, we strive to make the grammar extremely simple and clear so that anyone who has learned a programming language before can easily learn woojin in a short period of time. Our ultimate goal is to make it easy for even those who have never learned a programming language to learn woojin and enable more people to participate in this joke.
 
-Furthermore, **node-woojin has many bugs and may not function correctly**. Therefore, please refrain from using node-woojin. Instead, use woojin, which is safer, offers various features, and is regularly updated. Here are the places where you can find woojin. (The installation process for woojin will be detailed on the next page, and for those interested in the source code, please visit the GitHub site below.)
-**🌐 GitHub:** https://github.com/teamfishydino/woojin/
-**📦 Crates.io:** https://crates.io/crates/woojin/
+Furthermore, **node-woojin has many bugs and may not function correctly**. Therefore, please refrain from using node-woojin. Instead, use woojin, which is safer, offers various features, and is regularly updated. Here are the places where you can find woojin. (The installation process for woojin will be detailed on the next page, and for those interested in the source code, please visit the GitHub site below.)<br/>
+**🌐 GitHub:** [https://github.com/teamfishydino/woojin](https://github.com/teamfishydino/woojin)/<br/>
+**📦 Crates.io:** [https://crates.io/crates/woojin/](https://crates.io/crates/woojin/)<br/>
 
 > **Note:** Versions 0.x.x are all unofficial versions (beta versions). Versions 1.x.x and above are considered official versions. Compatibility with the syntax of unofficial versions (beta versions) may not be guaranteed. Also, please note that the grammar of unofficial versions can be changed at any time. It is recommended to visit this page regularly to learn about the new syntax of woojin.
